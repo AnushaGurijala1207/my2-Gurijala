@@ -17,3 +17,4 @@ I absolutely love **Hyderabad**. One of my favorite things to do is visit the **
 - Hyderabadi Biryani
 - Haleem
 - Kebabs
+For more about me, check out [My Stats](MyStats.md)
