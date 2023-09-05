@@ -19,3 +19,19 @@ I absolutely love **Hyderabad**. One of my favorite things to do is visit the **
 - Kebabs
 
 For more about me, check out [My Stats](MyStats.md)
+
+---
+
+# Recommended Sports
+
+In this section, I will recommend four distinct sports for you to consider trying. Each of these sports offers a unique set of experiences and benefits. Below, you will find a table summarizing these sports, including the reasons why I recommend them and the average weekly time commitment associated with each one.
+
+
+| Sport                | Reason for Recommendation              | Weekly Time Commitment (hours) |
+| -------------------- | -------------------------------------- | ------------------------------- |
+| Kho-Kho              | Enhances agility and team spirit.       | 3-4 hours                      |
+| Badminton            | Excellent for cardiovascular fitness and hand-eye coordination. | 4-6 hours |
+| Yoga                 | Enhances flexibility, reduces stress, and promotes mindfulness. | 2-4 hours             |
+| Swimming             | A full-body workout that aids in muscle toning. | 4-6 hours                      |
+
+
