@@ -35,11 +35,12 @@ In this section, I will recommend four distinct sports for you to consider tryin
 | Swimming             | A full-body workout that aids in muscle toning. | 4-6 hours                      |
 
 ---
-## Pithy Quotes
-In this section, I will share two quotes by great scientists:
+# Pithy Quotes
 
-"An equation for me has no meaning unless it expresses a thought of God."
-— Srinivasa Ramanujan
+In this section, I will share two quotes by notable individuals:
 
-"Dream, dream, dream. Dreams transform into thoughts and thoughts result in action."
-— Dr. APJ Abdul Kalam
+> "An equation for me has no meaning unless it expresses a thought of God."  
+> — *Srinivasa Ramanujan*
+
+> "Dream, dream, dream. Dreams transform into thoughts and thoughts result in action."  
+> — *Dr. APJ Abdul Kalam*
