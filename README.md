@@ -52,7 +52,8 @@ In this section, I will share two quotes by notable individuals:
 
 **Source:** [Stack Overflow](https://stackoverflow.com/questions/4782068/can-i-set-subject-content-of-email-using-mailto)
 
+[CSS - tricks](https://css-tricks.com/snippets/html/mailto-links/)
+
 ```html
 <a href="mailto:someone@yoursite.com?subject=Mail from Our Site">Email Us</a>
 
-[CSS - tricks](https://css-tricks.com/snippets/html/mailto-links/)
