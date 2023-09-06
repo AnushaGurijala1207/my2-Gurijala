@@ -44,3 +44,21 @@ In this section, I will share two quotes by notable individuals:
 
 > "Dream, dream, dream. Dreams transform into thoughts and thoughts result in action."  
 > — *Dr. APJ Abdul Kalam*
+
+---
+## Code Fencing
+
+> **Question:** Can I set the subject and content of an email using the `mailto:` link in HTML?
+> 
+> Source: [Stack Overflow](https://stackoverflow.com/questions/4782068/can-i-set-subject-content-of-email-using-mailto)
+
+
+```html
+<a href="mailto:someone@yoursite.com?subject=Mail from Our Site">Email Us</a>
+
+ **quick-link for the HTML snippet source:**
+
+```markdown
+Source: [CSS-Tricks](https://css-tricks.com/quick-link-to-the-snippet-source)
+
+
