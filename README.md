@@ -56,5 +56,5 @@ In this section, I will share two quotes by notable individuals:
 
 ```html
 <a href="mailto:someone@yoursite.com?subject=Mail from Our Site">Email Us</a>
-[CSS - tricks](https://css-tricks.com/snippets/html/mailto-links/)
+<a href="(https://css-tricks.com/snippets/html/mailto-links/)">CSS-tricks</a>
 
