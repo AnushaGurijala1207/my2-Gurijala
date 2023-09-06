@@ -55,9 +55,6 @@ In this section, I will share two quotes by notable individuals:
 
 ```html
 <a href="mailto:someone@yoursite.com?subject=Mail from Our Site">Email Us</a>
-
- **quick-link for the HTML snippet source:**
-
 ```markdown
 Source: [CSS-Tricks](https://css-tricks.com/quick-link-to-the-snippet-source)
 
