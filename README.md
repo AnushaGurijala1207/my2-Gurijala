@@ -55,6 +55,9 @@ In this section, I will share two quotes by notable individuals:
 
 [CSS-tricks](https://css-tricks.com/snippets/html/mailto-links/)
 ```html
+<a href="mailto:someone@yoursite.com">Email Us</a>  
 <a href="mailto:someone@yoursite.com?subject=Mail from Our Site">Email Us</a>
+<a href="mailto:someone@yoursite.com?cc=someoneelse@theirsite.com, another@thatsite.com, me@mysite.com&bcc=lastperson@theirsite.com&subject=Big%20News&body=Body-goes-here">Email Us</a>
+
 
 
